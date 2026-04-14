@@ -1,57 +1,64 @@
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi%20there👋,%20I'm%20JeongHui!&fontSize=40&color=C5E2FF)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C5E2FF,50:93C5FD,100:60A5FA&height=200&section=header&text=Hi%20there%20👋,%20I'm%20JeongHui!&fontSize=40&fontColor=1e3a5f&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Infrastructure%20Enthusiast&descAlignY=58&descAlign=50&descSize=16&descFontColor=2d5a8e"/>
 </div>
 
-<div align=center><h1>🛠Tech Stack</h1></div>
+<br/>
 
-<div align=center>
-  <!-- language -->
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <br>
+<!-- ===================== ABOUT ME ===================== -->
+<!-- 소개를 여기에 작성해 주세요 -->
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <br>
+<br/>
 
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-  <!--<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">-->
-  <br>
+---
 
-  <!-- front -->
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
-  
-<!--  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <br>-->
-  
+## 🛠 Stack
 
-
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <br>
-
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <br>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="48"/>
 </div>
 
+&nbsp;
 
+---
 
-----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhcode33&layout=compact)
+## 🚀 Projects
 
-<br>
+<!-- 프로젝트를 아래 형식으로 추가해 주세요 -->
+* **[프로젝트 이름](https://링크)** - 프로젝트 설명
+* **[프로젝트 이름](https://링크)** - 프로젝트 설명
+* **[프로젝트 이름](https://링크)** - 프로젝트 설명
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhcode33&show_icons=true&theme=transparent)
+&nbsp;
+
+---
+
+## 📊 GitHub Stats
+
+&nbsp;
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics"/>
+</div>
+
+&nbsp;
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:93C5FD,100:C5E2FF&height=100&section=footer"/>
+</div>
